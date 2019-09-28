@@ -1,0 +1,6 @@
+.bin
+dist
+node_modules
+.npmrc
+yarn-error.log
+.DS_Store
